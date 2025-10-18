@@ -43,9 +43,6 @@ I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP)
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssadUllahKhan&layout=compact&theme=dark&hide_border=true" />
 </div>
-![](https://github-readme-stats.vercel.app/api?username=AssadUllahKhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AssadUllahKhan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AssadUllahKhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AssadUllahKhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
