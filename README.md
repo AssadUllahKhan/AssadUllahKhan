@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Research-📚-yellow" alt="Research">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrannawar&label=Profile%20views&color=0e75b6&style=flat" alt="imrannawar" /> </p>
-<h2 align="center">About Me</h2>
+<h2 >About Me</h2>
 I’m currently working on Deep Learning & Computer Vision at the Digital Image Processing Lab, Islamia College University, Peshawar.<br><br>
 👯 I’m open to collaborating on AI, ML, and Computer Vision projects.<br><br>
 🤝 Seeking help with deploying and optimizing deep learning models.<br><br>
