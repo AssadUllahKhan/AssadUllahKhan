@@ -8,13 +8,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrannawar&label=Profile%20views&color=0e75b6&style=flat" alt="imrannawar" /> </p>
 <h2 >About Me</h2>
-I’m currently working on Deep Learning & Computer Vision at the Digital Image Processing Lab, Islamia College University, Peshawar.<br><br>
-👯 I’m open to collaborating on AI, ML, and Computer Vision projects.<br><br>
-🤝 Seeking help with deploying and optimizing deep learning models.<br><br>
-🌱 Currently learning Agentic AI, Reinforcement Learning, and CNNs.<br><br>
-💬 Ask me about AI, Python, TensorFlow, and Web Development.<br><br>
-⚡ Fun fact: I love blending AI with Web Development! 🚀
-
+I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP) Lab, Islamia College University Peshawar, supervised by Dr. Muhammad Sajjad. My research focuses on Deep Learning and Computer Vision, particularly on mosquito breeding site detection and segmentation using CNN and YOLO architectures. I completed my Bachelor’s degree in Computer Science in 2025 from Islamia College University, Peshawar, with strong interests in Machine Learning, Artificial Intelligence, and exploring cutting-edge AI technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/assadullahkhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:assadullahkhan556@gmail.com) 
