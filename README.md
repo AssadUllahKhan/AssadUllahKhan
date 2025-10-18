@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on Deep Learning and Computer Vision projects at the Digital Image Processing Lab, Islamia College University, Peshawar, under the supervision of Dr. Muhammad Sajjad.<br><br>👯 I’m looking to collaborate on Machine Learning, Deep Learning, and Computer Vision projects — especially those involving object detection, image segmentation, and AI-based research.<br><br>🤝 I’m looking for help with deploying deep learning models on web platforms and optimizing large-scale AI systems.<br><br>🌱 I’m currently learning Agentic AI, Reinforcement Learning, and Advanced CNN Architectures to strengthen my AI development skills.<br><br>💬 Ask me about Machine Learning, Deep Learning, Python, TensorFlow, Computer Vision, and Web Development (React.js, PHP, JavaScript).<br><br>⚡ Fun fact: I love combining AI with Web Development — bringing intelligent systems to life on the web! 🚀
+<h1 align="center">👋 I'm Assad Ullah Khan</h1>
+I’m currently working on Deep Learning & Computer Vision at the Digital Image Processing Lab, Islamia College University, Peshawar.<br><br>
+👯 I’m open to collaborating on AI, ML, and Computer Vision projects.<br><br>
+🤝 Seeking help with deploying and optimizing deep learning models.<br><br>
+🌱 Currently learning Agentic AI, Reinforcement Learning, and CNNs.<br><br>
+💬 Ask me about AI, Python, TensorFlow, and Web Development.<br><br>
+⚡ Fun fact: I love blending AI with Web Development! 🚀
 
 
 ## 🌐 Socials:
