@@ -1,4 +1,10 @@
 <h1 align="center">👋 I'm Assad Ullah Khan</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Vision-🖥️-brightgreen" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-🤖-blue" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/Deep%20Learning-🧠-orange" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Research-📚-yellow" alt="Research">
+</p>
 I’m currently working on Deep Learning & Computer Vision at the Digital Image Processing Lab, Islamia College University, Peshawar.<br><br>
 👯 I’m open to collaborating on AI, ML, and Computer Vision projects.<br><br>
 🤝 Seeking help with deploying and optimizing deep learning models.<br><br>
