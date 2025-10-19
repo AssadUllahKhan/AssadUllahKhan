@@ -8,6 +8,8 @@
 <img src="https://img.shields.io/badge/Web%20Developer-💻-red" alt="Web Developer">
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AssadUllahKhan&label=Profile%20views&color=0e75b6&style=flat" alt="AssadUllahKhan" /> </p>
+
 ## 👤 About Me
 I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP) Lab, Islamia College University Peshawar, supervised by Dr. Muhammad Sajjad. My research focuses on Deep Learning and Computer Vision, particularly on mosquito breeding site detection and segmentation using CNN and YOLO architectures. I completed my Bachelor’s degree in Computer Science in 2025 from Islamia College University, Peshawar, with strong interests in Machine Learning, Artificial Intelligence, and exploring cutting-edge AI technologies.
 
@@ -50,6 +52,11 @@ I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&logoWidth=40&style=for-the-badge)](mailto:assadullahkhan556@gmail.com)
 
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AssadUllahKhan?style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/AssadUllahKhan?style=social" alt="GitHub stars">
+</p>
 
 ## 📊 GitHub Stats
 <div align="center">
