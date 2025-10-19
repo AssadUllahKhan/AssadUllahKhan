@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Web%20Developer-💻-red" alt="Web Developer">
 </p>
 
-# About Me
+# 👤 About Me
 I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP) Lab, Islamia College University Peshawar, supervised by Dr. Muhammad Sajjad. My research focuses on Deep Learning and Computer Vision, particularly on mosquito breeding site detection and segmentation using CNN and YOLO architectures. I completed my Bachelor’s degree in Computer Science in 2025 from Islamia College University, Peshawar, with strong interests in Machine Learning, Artificial Intelligence, and exploring cutting-edge AI technologies.
 
 # 💻 Tech Stack
