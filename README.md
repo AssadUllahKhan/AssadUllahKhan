@@ -37,6 +37,14 @@ I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP)
 
 </div>
 
+# 🤝 Let's Connect
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/assadullahkhan) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:assadullahkhan556@gmail.com)
+
+</div>
+
 # 📊 GitHub Stats
 <div align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=AssadUllahKhan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,0f2027,203a43,2c5364&theme=dark" />
@@ -54,12 +62,6 @@ I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP)
     <img src="https://github-contributor-stats.vercel.app/api?username=AssadUllahKhan&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0,0f2027,203a43,2c5364" alt="GitHub Contributor Stats" />
 </div>
 
-# 🤝 Let's Connect
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/assadullahkhan) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:assadullahkhan556@gmail.com)
-
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
