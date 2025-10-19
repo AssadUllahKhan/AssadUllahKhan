@@ -8,16 +8,16 @@
 <img src="https://img.shields.io/badge/Web%20Developer-💻-red" alt="Web Developer">
 </p>
 
-# 👤 About Me
+## 👤 About Me
 I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP) Lab, Islamia College University Peshawar, supervised by Dr. Muhammad Sajjad. My research focuses on Deep Learning and Computer Vision, particularly on mosquito breeding site detection and segmentation using CNN and YOLO architectures. I completed my Bachelor’s degree in Computer Science in 2025 from Islamia College University, Peshawar, with strong interests in Machine Learning, Artificial Intelligence, and exploring cutting-edge AI technologies.
 
-# 🔭👤 My Journey
+## 🔭👤 My Journey
 - 🎓 Bachelors in Computer Science from Islamia College University, Peshawar
 - 💼 Currently working as Research Assistant at Digital Image Processing Lab, ICP
 - 🔭 Researching Deep Learning Based Mosquito Breeding Site Detection and Segmentation Ssing CNN and YOLO Architectures
 - 🌱 Always learning and staying updated with the latest in AI and computer vision
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 <div align="center">
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -43,7 +43,7 @@ I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP)
 
 </div>
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&logoWidth=40&style=for-the-badge)](https://linkedin.com/in/assadullahkhan) 
@@ -51,7 +51,7 @@ I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP)
 
 </div>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=AssadUllahKhan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,0f2027,203a43,2c5364&theme=dark" />
     <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=AssadUllahKhan&hide_border=true&background=0,0f2027,203a43,2c5364&theme=dark" alt="GitHub Streak" />
@@ -63,7 +63,7 @@ I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP)
 
 
 
-# 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 <div align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=AssadUllahKhan&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0,0f2027,203a43,2c5364" alt="GitHub Contributor Stats" />
 </div>
