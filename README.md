@@ -40,8 +40,8 @@ I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP)
 # 🤝 Let's Connect
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/assadullahkhan) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:assadullahkhan556@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&logoWidth=40&style=for-the-badge)](https://linkedin.com/in/assadullahkhan) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&logoWidth=40&style=for-the-badge)](mailto:assadullahkhan556@gmail.com)
 
 </div>
 
