@@ -61,9 +61,6 @@ I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP)
 ## 📊 GitHub Stats
 <div align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=AssadUllahKhan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,0f2027,203a43,2c5364&theme=dark" />
-    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=AssadUllahKhan&hide_border=true&background=0,0f2027,203a43,2c5364&theme=dark" alt="GitHub Streak" />
-</div>
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssadUllahKhan&layout=compact&bg_color=0,0f2027,203a43,2c5364&theme=dark&hide_border=true" />
 </div>
