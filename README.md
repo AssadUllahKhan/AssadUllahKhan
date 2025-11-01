@@ -6,9 +6,7 @@
 <img src="https://img.shields.io/badge/NLP-💬-purple" alt="Natural Language Processing">
 <img src="https://img.shields.io/badge/Research-📚-yellow" alt="Research">
 <img src="https://img.shields.io/badge/Web%20Developer-💻-red" alt="Web Developer">
-</p>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AssadUllahKhan&label=Profile%20views&color=0e75b6&style=flat" alt="AssadUllahKhan" /> </p>  -->
+</p> 
 
 ## 👤 About Me
 I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP) Lab, Islamia College University Peshawar, supervised by Dr. Muhammad Sajjad. My research focuses on Deep Learning, Computer Vision, and Natural Language Processing (NLP). I completed my Bachelor’s degree in Computer Science (2025) from Islamia College University, Peshawar, with strong interests in Machine Learning, Artificial Intelligence, and Web Development, along with a passion for exploring cutting-edge AI technologies.
@@ -73,6 +71,6 @@ I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP)
     <img src="https://github-contributor-stats.vercel.app/api?username=AssadUllahKhan&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0,0f2027,203a43,2c5364" alt="GitHub Contributor Stats" />
 </div>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AssadUllahKhan&label=Profile%20views&color=0e75b6&style=flat" alt="AssadUllahKhan" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
