@@ -71,6 +71,8 @@ I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP)
     <img src="https://github-contributor-stats.vercel.app/api?username=AssadUllahKhan&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0,0f2027,203a43,2c5364" alt="GitHub Contributor Stats" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AssadUllahKhan&label=Profile%20views&color=0e75b6&style=flat" alt="AssadUllahKhan" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=AssadUllahKhan&label=Profile%20views&color=0e75b6&style=flat" alt="AssadUllahKhan" /> 
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
