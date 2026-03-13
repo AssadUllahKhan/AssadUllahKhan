@@ -5,7 +5,6 @@
 <img src="https://img.shields.io/badge/Deep%20Learning-🧠-orange" alt="Deep Learning">
 <img src="https://img.shields.io/badge/NLP-💬-purple" alt="Natural Language Processing">
 <img src="https://img.shields.io/badge/Research-📚-yellow" alt="Research">
-<img src="https://img.shields.io/badge/Web%20Developer-💻-red" alt="Web Developer">
 </p> 
 
 ## 👤 About Me
