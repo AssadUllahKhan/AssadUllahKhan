@@ -13,7 +13,6 @@ I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP)
 ## 🔭👤 My Journey
 - 🎓 Bachelors in Computer Science from Islamia College University, Peshawar
 - 💼 Currently working as Research Assistant at Digital Image Processing Lab, ICP
-- 🔭 Researching Deep Learning Based Mosquito Breeding Site Detection and Segmentation Ssing CNN and YOLO Architectures
 - 🌱 Always learning and staying updated with the latest in AI and computer vision
 
 ## 💻 Tech Stack
