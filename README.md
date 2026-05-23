@@ -21,7 +21,7 @@ I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
-![Ultralytics](https://img.shields.io/badge/Ultralytics-000000?style=flat&logo=ultralytic
+![Ultralytics](https://img.shields.io/badge/Ultralytics-000000?style=flat&logo=ultralytics).
 
 </div>
 
