@@ -8,8 +8,7 @@
 </p> 
 
 ## 👤 About Me
-I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP) Lab, Islamia College University Peshawar, supervised by Dr. Muhammad Sajjad. My research focuses on Deep Learning, Computer Vision, and Natural Language Processing (NLP). I completed my Bachelor’s degree in Computer Science (2025) from Islamia College University, Peshawar, with strong interests in Machine Learning, Artificial Intelligence along with a passion for exploring cutting-edge AI technologies.
-
+I'm Assad Ullah Khan, a Research Assistant at the Digital Image Processing (DIP) Lab, Islamia College University Peshawar, supervised by Dr. Muhammad Sajjad. My research focuses on Deep Learning and Computer vision
 ## 🔭👤 My Journey
 - 🎓 Bachelors in Computer Science from Islamia College University, Peshawar
 - 💼 Currently working as Research Assistant at Digital Image Processing Lab, ICP
